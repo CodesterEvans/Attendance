@@ -12,7 +12,34 @@ I am taking the Edx courses offered by Georgia Tech in conjuction with their Mas
 Course name: Introduction to Python Programming, using the same material as CS1301: Introduction to Computing at Georgia Tech.
 
 **2022-04-24: **
+
 **Topic:** Edx course -> Introduction to Object-Oriented Programming with Java I: Foundations and Syntax Basics
 **Purpose:** I know Python but I am preparing for the other Edx course I will be taking on Data Structures and Algortithms which is taught in Java.
 This course also teaches OOP in Java.
 **What did you do?** Downloaded and set up Eclipse IDE, completed HW01 on Java basics. Check the "CS1331" file and look for HW01 for my coding solutions.
+
+
+**2022-05-01:**
+
+**Topic:** 
+I completed and uploaded my Calculator.java application and uploaded it to GitHub. 
+
+**Purpose:** 
+To apply Java for one the first time. So far I have been implementing code and sorting algorithms in Python but have not built any applications in Java yet.
+This is my first time applying the Java syntax and OOP principles in any application.
+
+**What did you do?**
+It is a basic calculator application that adds,subtracts, 
+multiplies, divides, and alphabetizes strings. It takes two integers or strings separated by a space in one line of input on the terminal. 
+It demonstrates usage of a switch statement, Scanner and next for user input, parsing user input into workable data types (string to int), and the comparable class on strings.
+
+**2022-05-08:**
+**Topic:** Battleship Application Progress
+**Purpose:** 
+To recreate the classic game battleship where user place their ships on a grid board and then fire at their opponents to sink all their battleships.
+**What did you do?** 
+
+So far I have set up the game so players can place their five 1-unit long ships onto their 5x5 gridfield. Scanner takes in two integers seperated by a space as the coordinates of each ship.
+I also have prototyped my "turn" method where players pick a coordinate to shoot at and then it updates the "Location" board (did my ship get hit?) and the "Target" board for the other player to know 
+where they have fired, and whether they have hit or missed. The boards then print to the console/terminal/whatever it is called with 20 lines between each board to prevent screen peaking. I am currently
+debugging this turn method because my return function is only printing the place in memory where the Location and Target board arrays are stored rather than the actual boards themselves.
