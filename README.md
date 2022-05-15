@@ -8,3 +8,5 @@ Not all of my work results in projects that I can list on a portfolio but this c
 The goal is to use this to get a software devleopment or data analyst position so I can upskill while I am getting paid do it. I am transitioning from a career as a tenured teacher.
 
 ** markdown practice **
+
+**2022-05-08:**
