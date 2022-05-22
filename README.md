@@ -9,11 +9,16 @@ The goal is to use this to get a software devleopment or data analyst position s
 
 ## Template for Attendance Logging:
 
-**YYYY-MM-DD:**
+**YYYY-MM-DD**
 **Topic:** 
 **Purpose:**
 **What did you do?**
 
+**2022-05-22**
+**Topic:** Starting new Georgia Tech Class, Pond Project, and laptop troubles update.
+**Purpose:** To get a masters degree in computer science, Practice OOP with multiple java files in unision, and fix my laptop!
+**What did you do?**
+This week I started my summer course, CS6750: Human-Computer Interactions. This course will go over how to create a better user interface and experience with technical design methods. This week we discussed the processor model, predictor model, and participant model. Also covered were feedback processes called the "gulf of execution" and the "gulf of evaluation" which detail the difficulty of using an interface and the user interpretation of feedback after they take an action. The Pond project is the next homework assignment in my side course on object oriented programming. I need to make three java files, one for "Fly","Frog", and "Pond". The frog file needs variables and methods that allow it to gain mass, age, speed,etc for eating flies. Flies have their own methods for growing and gaining/losing stats. The pond is the environment for both the frog and flies to live in. So far one of the main skills utilized is accessing private variables from one java file such as "Fly" using methods of the Fly class. These private mass and speed variables determine if the frog is quick enough to catch the fly, and if the fly is massive enough to make the frog grow significantly. Flies can increase their stats by avoiding frogs. 
 **2022-05-15:**
 **Topic:**  Battelship Application Completed and my high powered laptop computer stops charging and won't turn on!
 **Purpose:** To recreate the classic game battleship where users place their ships on a grid board and then fire at their opponents to sink all their battleships.
