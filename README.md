@@ -14,6 +14,15 @@ The goal is to use this to get a software devleopment or data analyst position s
 **Purpose:**
 **What did you do?**
 
+
+**2022-06-05**
+**Georgia Tech CS6750:HCI, Pond Project delays, laptop trouble update:** 
+**Purpose:** Masters degree in CompSci and learn UI UX design principles through projects, learn OOP, and have a working laptop.
+**What did you do?**
+The GA Tech class has taken more time than originally projected and my pond project has been stalled for about a week and a half now. It is dissapointing because I would much rather learn Object Oriented Programming through the Pond Project. I created fly objects to interact with frog objects via methods such as eat. 
+In HCI class I have learned more about what to program, rather than how to program. I planned out my project for the next few weeks and designed a 10 quesiton survey using non-biased questions per the design principles we learned. We are reading papers by Mckenzie and Norman.
+The broken laptop is just about done with. I replaced the battery but that did not fix the problem. The suspicion is it is the charging port; however, the whole motherboard will need to be taken off. It appears I need to remove the old port and sauter a new one on or at least tape the port. I also learned more about the GPU and it is an old 940m GPU. It appears there have been at least 3 new Nvidia generations of GPUs created since I bought this laptop. I have decided to buy a new laptop with a 30 series GPU and i9 CPU. I am still deciding on which specific laptop to purchase.
+
 **2022-05-22**
 **Topic:** Starting new Georgia Tech Class, Pond Project, and laptop troubles update.
 **Purpose:** To get a masters degree in computer science, Practice OOP with multiple java files in unision, and fix my laptop!
