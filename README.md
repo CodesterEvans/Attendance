@@ -14,6 +14,18 @@ The goal is to use this to get a software devleopment or data analyst position s
 **Purpose:**
 **What did you do?**
 
+##        ##         ##         ##
+
+**2022-06-12**
+**Topic:CS6750 Update,Pond Project is Back!** 
+**Purpose: Evaluating my needfinding techniques, summarizing my naturalistic observation, interview, and survey data.**
+**What did you do?**
+I administered a naturalistic observation, interview and 25 respondent survey. The project is redesigning the internet browser on the Amazon Firestick. Then I analyzed the data and discovered typing was the number one issue people have with using the Amazon Silk internet browser on the Firestick. Over 60% of respondents that disagree with the statement "The internet browser is easy to use on this device" indicated it was because of the typing feature. 
+
+
+Then respondents were asked to “select all that are true about the internet browser.” 84% of the respondents selected “It takes much longer to find what I am looking for using the internet browser on the media device(Firestick, Roku, Chromecast, etc), than on a phone or computer.” Users performing internet searches on their phone could cause them to be distracted from using the Amazon Firestick and reducing time spent on the Firestick overall. Possible benefits of improving the user interface of the Amazon Silk internet browser include increased user time on the Amazon Firestick leading to revenue increases.
+
+Summer is here and I will be dedicating 4 hours a day to computer science. Some of that time will be on the Pond project to increase my Object Oriented Programming Skills. Also, the Battleship game is now available in this repository in my GitHub! https://github.com/CodesterEvans/Battleship_Game
 
 **2022-06-05**
 **Georgia Tech CS6750:HCI, Pond Project delays, laptop trouble update:** 
