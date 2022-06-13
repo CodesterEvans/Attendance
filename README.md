@@ -17,8 +17,8 @@ The goal is to use this to get a software devleopment or data analyst position s
 ##        ##         ##         ##
 
 **2022-06-12**
-**Topic:CS6750 Update,Pond Project is Back!** 
-**Purpose: Evaluating my needfinding techniques, summarizing my naturalistic observation, interview, and survey data.**
+**Topic:** CS6750 Update,Pond Project is Back!
+**Purpose:** Evaluating my needfinding techniques, summarizing my naturalistic observation, interview, and survey data.
 **What did you do?**
 I administered a naturalistic observation, interview and 25 respondent survey. The project is redesigning the internet browser on the Amazon Firestick. Then I analyzed the data and discovered typing was the number one issue people have with using the Amazon Silk internet browser on the Firestick. Over 60% of respondents that disagree with the statement "The internet browser is easy to use on this device" indicated it was because of the typing feature. 
 
