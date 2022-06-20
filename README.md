@@ -16,6 +16,14 @@ The goal is to use this to get a software devleopment or data analyst position s
 
 ##        ##         ##         ##
 
+**2022-06-20**
+**Topic:** CS6750 Survey and Midterm, Pond Project, New Laptop
+**Purpose:** Designing project survey, planning out Pond Project, 
+**What did you do?** This week I need to create another survey for my class. This is for my class project and it will be to redesing the SEIS interface that I use for my current work. I have access to many people that use the same system through the work email so this works great! The results of this survey will give me quantitative data on what parts of the redesign are most important. 
+The plan for the pond project is to spend at least an hour a day on it. I am busy with my course assignments, exams, and projects this week so I may need to increase my total computer time from 4 to 5 hours.
+My laptop retails for about $1500. I found it open box at a Best Buy an hour from my house selling for $890. After tax, I paid a little under a thousand dollars. The specs are AMD Ryzen 5000 series 9 processor, a Nvidia Geforce RTX 3060 GPU, 1 TB SSD, and 16gb ram. I have not used AMD before but the CPU is powerful from what I understand. The GPU is this current generation. Overall, I thought this was a great deal. The laptop has a smaller display and is light weight which I prefer because I travel frequently. 
+
+
 **2022-06-12**
 **Topic:** CS6750 Update,Pond Project is Back!
 **Purpose:** Evaluating my needfinding techniques, summarizing my naturalistic observation, interview, and survey data.
