@@ -10,8 +10,11 @@ The goal is to use this to get a software devleopment or data analyst position s
 ## Template for Attendance Logging:
 
 **YYYY-MM-DD**
+
 **Topic:** 
+
 **Purpose:**
+
 **What did you do?**
 
 ##        ##         ##         ##
