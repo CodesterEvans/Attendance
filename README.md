@@ -19,6 +19,18 @@ The goal is to use this to get a software devleopment or data analyst position s
 
 ##        ##         ##         ##
 
+
+**YYYY-MM-DD** 2022-07-03
+
+**Topic:** CS6750 Survey update and partial results, CS6750 Midterm Results, AmidstUs Java Object Oriented Programming
+
+**Purpose:** To gather data for my CS6750 final project, go over my midterm results, and learn OOP.
+
+**What did you do?**
+I created a survey for the SEIS interface and sent it out to my coworkers. I feel really good about this survey because I think I did a good job. It asnwers all the questions from the data inventory about users of the interface and the data from the survey automatically populates the fields in my excel file for each question. So far 2 days after launching the survey I have 10 responses. I plan to use this project as a possible future employment opporutnity with SEIS since it relates to the industry I currently work in. 
+I scored 132/150 on the Midterm putting me firmly in the top half of the class. Pretty excited about that! It tested everything I learned from the first 6 weeks in a 2 hour testing session. 
+The AmidstUs project is a spin off of the AmongUs game popular on mobile devices. It involves the use of inheritance, the keyword super to create super constructors in the child class that are based off the parent class, and implementing interfaces with abstract methods. This is the toughest project I have done so far and feel like this is a turning point in terms of the complexity of OOP that I understand. Depending on well I contintue to perform on these side projects will determine if I think I am ready for a programming class in January 2023 or if I need to use that semester to self-study. The class I plan to take in January 2023 is Software Development Process or SDP for short. This is a course that uses Java to build team projects and will hopefully be a good jumping off point for my job search that I plan to begin spring 2023. 
+
 **2022-06-20**
 **Topic:** CS6750 Survey and Midterm, Pond Project, New Laptop
 **Purpose:** Designing project survey, planning out Pond Project, 
