@@ -19,8 +19,34 @@ The goal is to use this to get a software devleopment or data analyst position s
 
 ##        ##         ##         ##
 
+**2022-07-03** 
 
-**YYYY-MM-DD** 2022-07-03
+**Topic:** CS6750 Project Update and status, Amidst Us project complete (Object Oriented Programming Java assignment)
+
+**Purpose:** To describe my status in the course and interest level, Demonstrate Java proficiency with OOP superclasses and subclasses, implementing interfaces, etc.
+
+**What did you do?**
+
+This past week I got all the survey results I need for Cs6750. I have an A in the class and it appears that it will remain that way if I stay diligent. The problem is I have lost interest in the course. I feel like I have gotten most of what I am going to get out of it and the course has no programming. I took it because it is "easy" and I need to pass two foundational courses by January to stay in the OMSCS program.
+
+##The Among Us spinoff assignment is finally complete!
+
+The majority of the skills are demonstrated in the RedAstronaut and BlueAstronaut files. The Gameplay file is the driver and is where the code is tested. Use the instructions file to check if the answers in Gameplay are correct (they are). 
+
+## Skills Demonstrated
+1. Object Oriented Programming in Java: Encapsulation, Abstraction, Inheritance, and Polymorphism.
+2. Superclass (abstract parent) and subclasses (concrete child) extentions implememented.
+3. Super keyword: Constructors, and methods. @Override implemented.
+4. Abstract class (parent) and abstract methods implemented concretely in child classes. Parent class methods referenced and utilized.
+5. Interfaces implemented in two classes.
+6. Java Arrays: Array reconstruction, appending, removing, indexing, filtering an array based on a variable.
+7. Private variables used with getters and setters for encapsulation and security. 
+8. Problem solving skills and programming fluency demonstrated with loops, conditionals, counts, array indexing manipulation, and print statements.
+9. Driver file to run tests and simulate Amidst Us gameplay.
+
+### Disclaimer: Deliberately dirty code to show thought processes and aid me in learning. Cleaner version can be created later.
+
+**2022-07-03** 
 
 **Topic:** CS6750 Survey update and partial results, CS6750 Midterm Results, AmidstUs Java Object Oriented Programming
 
