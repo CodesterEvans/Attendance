@@ -23,12 +23,16 @@ The goal is to use this to get a software devleopment or data analyst position s
 
 **Topic:** 
 CS6750 Class conclusion (Grade = A), Vet Assignment and its poor instructions (Object Oriented Programming Java)
+
 **Purpose:**
 To get my masters in computer science, learn more OOP building off concepts in the Amidst Us project and introduce exceptions including try/catch blocks, unhandled exceptions, and FilenotfoundExceptions, IOExceptions. I also practiced reading and writing files.
+
 **What did you do?**
 I completed my CS6750: Human computer Interaction course at GA Tech. The SEIS project is complete which I may upload a copy of here. I actually just took a new career position where I work with 9 different types of SEIS systems. These systems actually show that many of the issues I outlined in my project do not apply to other SEIS logins. I will probably need to update the paper now; however, you can see my writing skills and how I can communicate in that paper. Be easy on me because it is pretty much the second research paper I have ever written! I took the final and got an A. Overall, my grade in the course was an A. The next GA Tech course I will be taking is Knowledge Based Artificial Intelligence where it looks like I get to code an AI that passes human intelligence tests (Raven's Matrices). This course gives the option of Java or Python. I will be using Python for the course. This will be interesting because my OOP courses I am doing on my own time are all in Java.
-## Vet Assignment
+
+### Vet Assignment
 The vet assignment made me apply new concepts I learned in my Java OOP class. I applied more inheritance and polymorphism concepts including super classes and super methods. In addition, there are try and catch blocks and unhandled exceptions. One MAJOR issue: the instructions are written improperly. This really confused me. I gave it two to three days and decided to move onto the next project. Good thing I chose to spend those days becauase I did learn about how to read in .txt and .csv files with the scanner and bufferedreader classes. I also learned how the exceptions work and applied them. I ended up not finishing the project because the instructions are too convoluted. I will post what I have from the project and the instructions for others to judge, but I am pretty sure I am correct that the instructions for the Clinic class are unacceptable. I will now be moving onto the next project which is the LinkedList project. I am excited for this because it is the intro to the Data Structures an Algorithms course I am taking next!
+
 **2022-07-03** 
 
 **Topic:** CS6750 Project Update and status, Amidst Us project complete (Object Oriented Programming Java assignment)
