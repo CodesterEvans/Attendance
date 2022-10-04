@@ -19,6 +19,15 @@ The goal is to use this to get a software devleopment or data analyst position s
 
 ##        ##         ##         ##
 
+**YYYY-MM-DD**
+2022-10-04
+**Topic:** 
+CS7637: Knowledge-Based Artifical Intelligence, Applying for data analyst/scientist/Machine Learning internships
+**Purpose:**
+To introduce myself to more rigorous coursework and apply my OOP knowledge to projects, to get real-world experience working on a team.
+**What did you do?**
+I wasn't quite ready yet but I really wanted to try out another high level programming class. I learned so much from the Artifical Intelligence for Robotics class that I figured it would be a great opportunity to apply my new programming skills. I made it through the first ~6 weeks but ended up falling behind and needed to withdraw. I talked to many smart people in class and learned which data structures and algorithms are most important such as trees, graphs, BFS, and DFS. It was a great trial by fire and I learned what I am now regarding as the most imporant thing yet; I NEED TO GET A JOB IN THE FIELD. Everyone else has on the job experience which I need. Self-study is not enough and I need to eat, sleep, and breathe data science. I've updated my resume for tech and have formatted my teaching experience in a relevant manner to the data science field. I gathered a list of 40 internships/jobs and narrowed it down to 20 to start applying to. My next update will be on which companies I am applying to.
+
 **2022-08-10**
 
 **Topic:** 
